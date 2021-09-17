@@ -151,7 +151,7 @@ class Hero extends Unit {
       
       textSize(20);
       fill(255);
-      text("Health: " + health + "/" + maxHealth, 10, 10);
+      text("Health: " + health + "/" + maxHealth, 10, 20);
     }
   }
   
